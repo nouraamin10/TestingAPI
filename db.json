@@ -9,6 +9,7 @@
     "name": "typicode"
   },
   "NotificationCount":{
-    "count":"50"
-  }
+    "count":50
+  },
+  "ServicesList":{}
 }
