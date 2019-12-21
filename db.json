@@ -15,6 +15,10 @@
   {
     "ServiceName":"Service_1",
     "PhoneNumber":"1"
-  }
+  },
+      {
+        "ServiceName":"Service_2",
+        "PhoneNumber":"2"
+      }
 ]
 }
