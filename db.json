@@ -8,5 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "NotificationCount":{"count":50}
+  "NotificationCount":{
+    "count":"50"
+  }
 }
